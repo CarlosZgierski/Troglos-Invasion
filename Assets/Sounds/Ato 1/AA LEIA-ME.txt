@@ -1,0 +1,87 @@
+ATO 1.
+
+- Chance de Observar
+
+  Ato 1._10 ao Ato 1._11
+
+- Ao spotar um saco:
+
+  Ato 1._12 ao Ato 1._17
+
+- Fim da fase:
+
+  Ato 1._18
+
+
+ATO 2.
+
+- Ao entregar o controle nas mãos do player:
+
+  Ato 2._01
+
+- Ao entrar no primeiro quarto:
+
+  Ato 2._02 ao Ato 2._03
+
+- Ao subir no patamar antes de pisar no andar de cima (acesso pelo buraco no teto):
+
+  Ato 2._04
+
+- Ao sair do quarto após descer pelo buraco:
+
+  Ato 2._05
+
+- Ao entrar no banheiro:
+
+  Ato 2._06
+
+- Após jogar o objeto:
+
+  Ato 2._07
+
+- Ao entrar no quarto do milho falso:
+
+  Ato 2._08 ao Ato 2._09
+
+- Ao interagir com o saco:
+
+  Ato 2._10 ao Ato 2._11
+
+- Ao ser spotado:
+
+  Ato 2._12 ao Ato 2._19
+
+- Ao encontrar um saco falso:
+
+  Ato 2._20 ao Ato 2._25 
+
+- Ao Ficar em idle:
+
+  Ato 2._26 ao Ato 2._29
+
+- Ao interagir com um objeto de animal:
+
+  Ato 2._30
+
+- Ao interagir com um cartaz dos troglos:
+
+  Ato 2._31
+
+- Ao interagir com uma TV ligada:
+
+  Ato 2._32
+
+- Ao interagir com um saco:
+
+  Ato 2._33
+
+
+ATO 3.
+
+- Logo após coletar o saco correto:
+
+  Ato 3._01 ao Ato 3._02
+
+- Cena após cumprir a missão:
+
+  Ato 3._03 ao Ato 3._04

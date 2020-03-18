@@ -1,0 +1,1 @@
+walk 1-30 idle 31-322 poiting 323-389

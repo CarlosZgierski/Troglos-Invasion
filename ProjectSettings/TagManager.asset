@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SoundTrigger
+  - Cover
+  - Vault
+  - Hide
+  - Push
+  - Object
+  - Main Objective
+  - Wood Floor
+  - Concrete Floor
+  - Carpet Floor
+  - Glass Floor
+  - SacoFalso
+  - Walls
+  - Cam
+  - movObj
+  - lowMov
+  - wrongWay
+  - pickupObj
+  - goSpeedGo
+  - spotSaco
+  - fakeMission
+  - Luz
+  - Porta
+  - Boss
+  - Inimigo
+  - InvisibleWall
+  - PlayerHead
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Player
+  - Object
+  - Raycast
+  - PlayerRaycast
+  - PlayerAura
+  - ThrowableObj
+  - Walls
+  - Alvo
+  - Sound
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -6,3 +6,6 @@ This project has been abandoned since its conception and currently has some lega
 The project was programmed by me (Carlos Alberto Zgierski da Silveira) and 2 other programmers.
 
 This was since the beggining an ambicious project for less than 6 months to complete, and we had lighting and performance problems since the beggining of the project. The project was lead by a less experince develloper, and this can be seen it the final build of the project.
+
+
+PS: if the project doesn't run, please uncompress the LightingData Zip file located inside the Assets/Scenes/contrucao_Level folder. The file was too big for GitHub and it needed to be compressed.
